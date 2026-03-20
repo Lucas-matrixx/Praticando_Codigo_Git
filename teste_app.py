@@ -8,4 +8,7 @@ print(f'{a} + {b} = {soma}')
 
 
 subtracao = app.subtrair(a, b)
-print(f'{a} + {b} = {subtracao}')
+print(f'{a} - {b} = {subtracao}')
+
+multiplicacao = app.multiplicar(a. b)
+print(f'{a} x {b} = {multiplicacao}')
