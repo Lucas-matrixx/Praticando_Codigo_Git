@@ -1,7 +1,7 @@
 import app
 
 a = 5
-b = 5
-soma = a + b
+b = 4
+soma = app.somar(a, b)
 
 print(f'{a} + {b} = {soma}')
