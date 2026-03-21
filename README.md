@@ -6,7 +6,7 @@ Este repositório foi criado com o objetivo de praticar conceitos fundamentais d
 
 ## 🚀 Funcionalidades
 
-- ✅ Implementação de funçoes da calculadora
+- ✅ Implementação de funções da calculadora
 - ✅ Testes básicos da função
 - ✅ Versionamento utilizando Git
 - ✅ Criação de tags (`v1.0.0`)
