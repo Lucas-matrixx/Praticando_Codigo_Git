@@ -6,7 +6,7 @@ Este repositório foi criado com o objetivo de praticar conceitos fundamentais d
 
 ## 🚀 Funcionalidades
 
-- ✅ Implementação de função de soma
+- ✅ Implementação de funçoes da calculadora
 - ✅ Testes básicos da função
 - ✅ Versionamento utilizando Git
 - ✅ Criação de tags (`v1.0.0`)
@@ -34,7 +34,7 @@ Praticar:
 
 ## 🔖 Versão
 
-Versão atual: **v2.0.0**
+Versão atual: **v3.0.0**
 
 ---
 
