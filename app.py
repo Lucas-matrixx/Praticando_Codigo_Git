@@ -12,3 +12,8 @@ def dividir(a, b):
 
 def potenciar(a, b):
     return a ** b
+
+def raiz_sqrt(a):
+    import math
+    return math.sqrt(a)
+    
