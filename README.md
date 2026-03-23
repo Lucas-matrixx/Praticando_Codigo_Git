@@ -25,7 +25,7 @@ Este repositório foi criado com o objetivo de praticar conceitos fundamentais d
 ## 🧠 Objetivo
 
 Praticar:
-- Comandos básicos do Git
+- Comandos fundamentais do Git
 - Criação de commits semânticos
 - Controle de versões
 - Uso de tags para versionamento
