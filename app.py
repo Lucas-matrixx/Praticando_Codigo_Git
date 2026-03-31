@@ -16,4 +16,7 @@ def potenciar(a, b):
 def raiz_sqrt(a):
     import math
     return math.sqrt(a)
+
+def porcentagem(a, b):
+    return a * b / 100
     
