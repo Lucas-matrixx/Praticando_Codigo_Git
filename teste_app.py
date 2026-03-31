@@ -21,3 +21,6 @@ print(f'{a} ^ {b} = {radiciacao}')
 
 raiz_quadrada = app.raiz_sqrt(a)
 print(f'sqrt({b}) = {raiz_quadrada}')
+
+porcentagem = app.porcentagem(a, b)
+print(f'{porcentagem}%')
