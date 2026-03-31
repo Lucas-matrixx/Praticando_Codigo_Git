@@ -19,4 +19,3 @@ def raiz_sqrt(a):
 
 def porcentagem(a, b):
     return a * b / 100
-    
