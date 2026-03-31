@@ -34,7 +34,7 @@ Praticar:
 
 ## 🔖 Versão
 
-Versão atual: **v1.4.0**
+Versão atual: **v1.5.0**
 
 ---
 
